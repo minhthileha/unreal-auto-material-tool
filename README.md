@@ -33,4 +33,4 @@ This tool was used during a team-based animated film production for several mont
 
 Full project breakdown:
 
-https://www.behance.net/gallery/255363809/Automated-Material-Pipeline-Tool-for-Unreal-Engine
+[https://www.behance.net/gallery/255363809/Automated-Material-Pipeline-Tool-for-Unreal-Engine](https://www.artstation.com/artwork/8vbren)
